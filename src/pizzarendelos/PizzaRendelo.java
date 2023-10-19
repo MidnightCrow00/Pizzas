@@ -319,7 +319,7 @@ public class PizzaRendelo extends javax.swing.JFrame {
     }//GEN-LAST:event_rbn32ActionPerformed
 
     private void btnOkActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnOkActionPerformed
-        JOptionPane.showMessageDialog(null, "Rendelés leadva.");
+        JOptionPane.showMessageDialog(rootPane, "Rendelés leadva.", "Cím", 2);
     }//GEN-LAST:event_btnOkActionPerformed
 
     private void btnMegsemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnMegsemActionPerformed
